@@ -1,0 +1,6 @@
+{
+  "name": "SecureLab — SQL Injection Practice Lab",
+  "description": "An interactive cybersecurity educational platform and penetration testing lab featuring realistic forum discussions and isolated SQL injection vulnerability training.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
